@@ -1,20 +1,26 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=systems+development+teacher)
+# Joyce Querubino 👩‍💻
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JoyceQuerubino)](https://github.com/JoyceQuerubino)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joyce-querubino/)](https://www.linkedin.com/in/joyce-querubino/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@joycequerubino5)](https://medium.com/@joycequerubino5)
+[![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/joycequerucdd7)](https://www.behance.net/joycequerucdd7)
+[![Codepen Badge](https://img.shields.io/badge/-codepen-black?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/joycequerubino/pens/showcase)](https://codepen.io/joycequerubino/pens/showcase)
 
-Hi, sou desenvolvedora, and I always look for new technologies and tools to teach my students. I worked for many years with Linux, with back-end and team management.
+<h1 align="center">
+  <img src ="https://ik.imagekit.io/joyceQuerubino/personagem_MLbVvybMb7.gif">
+</h1>
 
-<h2><strong>MY SKILLS:</h2>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="mySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<h2><strong>LEARNING:</h2>
-  <img align="center" alt="PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg"/>
-  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <h2><strong>SOCIAL:</h2>
-<div>
-  <a href="https://www.instagram.com/marcelo.bruno.fuentes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a [href="https://www.linkedin.com/in/gabriel-sakoda-44018a28b/](https://www.linkedin.com/in/marcelo-bruno-fuentes-125732121/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-<br>
+<h3> Olá 👋 </h3>
+Meu nome é Joyce Querubino e sou apaixonada por Desenvolvimento e Motion Design ❤
+
+- 💻 **Linguagens:** Html, CSS, SASS, JavaScript, Typescript, SQL, React, React-Native e em busca de aprender muito mais!
+- 🎨 **Ferramentas:** Visual Studio Code, GitHub, Photoshop, illustrator, Premiere, After Effects, Audition, Figma, Adobe XD
+- 📚 **Acadêmico:** Cursando faculdade de Ciência da Computação, Bootcamp Ignite da **[RocktSeat](https://rocketseat.com.br/)** e cursos da **[Origamid](https://www.origamid.com/)**
+
+---
+
+|GITHUB STATS|LINGUAGENS|
+|:---:|:---:|
+|[![JoyceQuerubino's github stats](https://github-readme-stats.vercel.app/api?username=JoyceQuerubino&count_private=true&show_icons=true)](https://github.com/JoyceQuerubino/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoyceQuerubino&hide=Rich%20Text%20Format,scheme,javascript,vim%20script&langs_count=10&&exclude_repo=blueprintcode-scalatra-wip-temp-example-2018-02-01,blueprintcode-react-wip-temp-example-2018-02-01,javascript-playground-wip-temp-examples&layout=compact)](https://github.com/SelimHorri/github-readme-stats)|
+
+
+> :octocat: Meu site http://joyce.produzirconteudo.com.br/
